@@ -76,8 +76,8 @@ public:
 
 int main()
 {
-    Student student("John Student", "555-0100", "1 Main Street", "Mathematics", 95.5f);
-    Teacher teacher("Jane Teacher", "555-0101", "2 Main Street");
+    Student student("Ahmed Ali", "092-010101010", "Misrata", "OOP", 95.5f);
+    Teacher teacher("Jane Teacher", "091-747555555501", "Tripoli");
 
     cout << "Student: " << student.getName() << '\n'
          << "Phone: " << student.getPhone() << '\n'
